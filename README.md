@@ -19,7 +19,7 @@ Sure Back is a project that provides a financial management system. It consists 
 
 ## Project Description
 
-Sure Back is a financial management system that allows users to create accounts, login, logout, deposit, withdraw, and check their balance. It also includes an administration section for managing accounts and generating reports.
+Sure Back is a financial management system that allows users to create accounts, login, logout, deposit, withdraw, and check their balance.
 
 ## Features
 
@@ -27,7 +27,7 @@ Sure Back is a financial management system that allows users to create accounts,
 - Account creation, login, logout
 - Deposit and withdrawal functionality
 - Balance inquiry
-- Account management and reporting for administrators
+
 
 ## Technologies Used
 
